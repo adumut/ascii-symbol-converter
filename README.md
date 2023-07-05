@@ -6,5 +6,5 @@ ASCII to symbol + symbol to ASCII
 </h1>
 
 => Open terminal
-=> Go to the path where ascii.cpp and ascii(application/x-executable) is installed
+=> Go to the path where ascii.cpp and ascii(application/x-executable) are installed
 => Type ./ascii
